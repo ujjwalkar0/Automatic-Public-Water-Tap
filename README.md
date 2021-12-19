@@ -12,7 +12,8 @@ In The road side water tap we see that a huge amount of water is wasting when pe
 ## Functional Timing :
 When a bottle or bucket is putting under the the tap , both sensor detect that something is under it. Then both servo motor rotate and water will flow.
 
-## Algorithm :
+<!-- ## Algorithm :
 1. Solar power supply initialize the IR Sensor, Servo Motor
 2. Sensor 1 watch a object and servo motor 1 rotates, and Sensor 2 watch a object and motor 2 rotates.
 3. When both motors rotates then water run.
+ -->
